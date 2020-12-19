@@ -1,6 +1,7 @@
 #include <stdio.h>
 int main()
 {
+    int i = 65;
     char chr;
     printf("Enter a character: ");
     scanf("%c", &chr);
