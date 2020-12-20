@@ -16,3 +16,13 @@ int main()
 // 2 * 2 ==> 4
 // 2 * 3 ==> 6
 // 2 * 4 ==> 8
+
+// scanf ===> table which you want to print ===> how many time do you want to print
+
+// 4, 6
+// 4 * 1 ==> 2
+// 4 * 2 ==> 4
+// 4 * 3 ==> 6
+// 4 * 4 ==> 8
+// 4 * 5 ==> 8
+// 4 * 6 ==> 8
