@@ -8,7 +8,7 @@ int main()
     printf("Value of c: %d\n\n", c); // 22
 
     pc = &c;
-    printf("Address of pointer pc: %p\n", pc);
+    printf("Address of pointer pc: %p\n", pc);    // Address of pointer
     printf("Content of pointer pc: %d\n\n", *pc); // 22
 
     c = 11;
